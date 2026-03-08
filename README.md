@@ -1,12 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?color=00F72D&size=35&center=true&vCenter=true&width=900&lines=Olá,+eu+sou+Pedro+👋;Data+Analytics+Student;Python+%7C+SQL+%7C+Power+BI;Construindo+Projetos+de+Dados" />
+<img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=35&center=true&vCenter=true&width=900&lines=Olá,+eu+sou+Pedro+👋;Data+Analytics+Student;Python+%7C+SQL+%7C+Power+BI;Construindo+Projetos+de+Dados" />
 
 </div>
 
 ---
-
-# 👨‍💻 Sobre mim
 
 🎓 Estudante de tecnologia com foco em Data Analytics.  
 📊 Utilizo Python, SQL e ferramentas de visualização para análise e interpretação de dados.  
