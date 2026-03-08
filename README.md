@@ -6,13 +6,13 @@
 
 ---
 
-🎓 Estudante de tecnologia com foco em Data Analytics.  
-📊 Utilizo Python, SQL e ferramentas de visualização para análise e interpretação de dados.  
-🚀 Atualmente desenvolvendo projetos para fortalecer meu portfólio.  
+Estudante de tecnologia com foco em Data Analytics.  
+Utilizo Python, SQL e ferramentas de visualização para análise e interpretação de dados.  
+Atualmente desenvolvendo projetos para fortalecer meu portfólio.  
 
 ---
 
-# 🛠️ Tecnologias e Ferramentas
+Tecnologias e Ferramentas
 
 <div>
 
@@ -24,22 +24,3 @@
 
 </div>
 
----
-
-# 📊 Estatísticas do GitHub
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedroanalyticsdev&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroanalyticsdev&layout=compact&theme=tokyonight"/>
-
-</div>
-
----
-
-# 🔥 Streak de Contribuições
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=pedroanalyticsdev&theme=
