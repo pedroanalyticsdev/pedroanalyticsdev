@@ -1,5 +1,6 @@
+<div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=35&center=true&vCenter=true&width=900&lines=Olá,+meu+nome+é+Pedro+Henrique;Systems+Analysis+and+Development" />
+<img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=35&center=true&vCenter=true&width=900&lines=Hi,+I'm+Pedro+Henrique;Systems+Analysis+and+Development;Data+Analytics+Student" />
 
 </div>
 
@@ -7,8 +8,8 @@
 
 <div align="center">
 
-<!-- Adicione sua imagem aqui -->
-<img src="LINK-DA-SUA-IMAGEM" width="200px">
+<!-- Banner Image -->
+<img src="https://github.com/user-attachments/assets/e18e4429-5fbb-4067-a340-cffd7716d7fa" width="100%">
 
 </div>
 
@@ -16,9 +17,9 @@
 
 # About Me
 
-Estudante de tecnologia focado em **Systems Analysis and Development** e **Data Analytics**.  
-Utilizo **Python**, **SQL** e ferramentas de visualização para análise e interpretação de dados.  
-Atualmente desenvolvendo projetos para fortalecer meu portfólio e evoluir na área de dados.
+Estudante de Análise e Desenvolvimento de Sistemas com foco em Data Analytics.  
+Utilizo Python, SQL e ferramentas de visualização para análise e interpretação de dados.  
+Atualmente desenvolvendo projetos para fortalecer meu portfólio.
 
 ---
 
@@ -38,13 +39,11 @@ Atualmente desenvolvendo projetos para fortalecer meu portfólio e evoluir na á
 
 # Contacts
 
-<a href="mailto:SEUEMAIL@gmail.com">
+<a href="mailto:p.souza123754@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
-<a href="SEU-LINK-LINKEDIN">
+<a href="https://www.linkedin.com/in/pedro-henrique-souza-santos-4064b9352/">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
-
-
 
