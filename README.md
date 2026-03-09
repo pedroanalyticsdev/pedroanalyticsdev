@@ -9,7 +9,7 @@
 <div align="center">
 
 <!-- Banner Image -->
-<img src="https://github.com/user-attachments/assets/e18e4429-5fbb-4067-a340-cffd7716d7fa" width="100%">
+<img src="https://github.com/user-attachments/assets/e18e4429-5fbb-4067-a340-cffd7716d7fa" width="100%"  height="500">
 
 </div>
 
